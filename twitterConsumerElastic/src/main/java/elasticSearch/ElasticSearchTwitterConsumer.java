@@ -30,9 +30,9 @@ import java.util.Properties;
 
 public class ElasticSearchTwitterConsumer {
     public static RestHighLevelClient createClient(){
-        String hostname = "kafka-udemy-course-7915439929.ap-southeast-2.bonsaisearch.net";
-        String username = "86ompdo2h6";
-        String password = "s8544fgr2u";
+        String hostname = "";
+        String username = "";
+        String password = "";
 
 //        connecting client to the elasticSearch cloud service bonsai
 //      setting the endpoint
